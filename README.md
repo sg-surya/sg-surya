@@ -13,10 +13,11 @@
 ---
 
 ### 💼 Projects
-- 🧠 **Vasudev AI** – Offline, multilingual AI assistant  
-- 🖥️ **Vasudev OS** – Custom Linux-based operating system  
-- 🤖 Telegram Bots – Automation tools for education & business  
-- 📦 System Tools – CLI + GUI apps for productivity and performance
+
+- 📚 **Sahayak AI** – An AI-powered tool to **empower Indian teachers** with content creation, auto-doubt solving, lesson planning & more  - 🧠 **Vasudev AI** – Offline, multilingual, Hinglish-speaking personal assistant built on local LLMs  
+- 🖥️ **Vasudev OS** – Custom Linux-based operating system for offline productivity, AI & system tools  
+- 🤖 **Telegram Bots** – Custom automation bots for GeM alerts, student queries, affiliate posting, and more  
+- 📦 **System Tools** – CLI + GUI tools for daily workflows, including file managers, background remover, text editors, and more
 
 ---
 
