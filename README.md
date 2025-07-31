@@ -38,7 +38,19 @@
 
 ![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sg-surya&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg-surya&layout=compact&theme=radical)
+
+---
+
+
+### 📊 GitHub Trophies
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=sg-surya&theme=dracula)
+
+---
+
+
+### 📊 Visitor Counter
+
 ![Visitors](https://komarev.com/ghpvc/?username=sg-surya&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
