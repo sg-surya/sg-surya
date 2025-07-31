@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Surya
 
-<!--
-**sg-surya/sg-surya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Builder | Founder of **Vasudev AI** | Creator at [CodeCraft with Surya](https://youtube.com/@CodeCraftwithSurya)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🔧 Full-Stack Developer | OS Developer | AI Architect  
+- 🧱 Building custom OS, offline AI assistants, and futuristic systems  
+- 🎥 Sharing tech hacks, builds & tutorials on YouTube  
+- 🏫 Runs Bhavna Institute – empowering students with real tech skills  
+
+---
+
+### 💼 Projects
+- 🧠 **Vasudev AI** – Offline, multilingual AI assistant  
+- 🖥️ **Vasudev OS** – Custom Linux-based operating system  
+- 🤖 Telegram Bots – Automation tools for education & business  
+- 📦 System Tools – CLI + GUI apps for productivity and performance
+
+---
+
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sg-surya&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg-surya&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect With Me
+[![YouTube](https://img.shields.io/badge/YouTube-CodeCraft--with--Surya-red?logo=youtube)](https://youtube.com/@CodeCraftwithSurya)
+[![Gmail](https://img.shields.io/badge/Gmail-contact.sgsurya@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vasudevaiagency@gmail.com)
+
+---
+
+> ⚡ "Turning bold ideas into powerful tools. Offline. Secure. Smart."
+
