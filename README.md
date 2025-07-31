@@ -45,6 +45,7 @@
 ### 📊 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=sg-surya&theme=dracula)
+![GitHub Snake](https://github.com/sg-surya/sg-surya/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
