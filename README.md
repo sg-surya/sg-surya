@@ -1,66 +1,223 @@
-# 👋 Hi, I'm Surya
+<!-- terminal-style profile README -->
 
-🚀 Tech Builder | Founder of **Vasudev AI** | Creator at [CodeCraft with Surya](https://youtube.com/@CodeCraftwithSurya)
+<div align="center">
 
----
+# `sg-surya`
 
-### 🧠 About Me
-- 🔧 Full-Stack Developer | OS Developer | AI Architect  
-- 🧱 Building custom OS, offline AI assistants, and futuristic systems  
-- 🎥 Sharing tech hacks, builds & tutorials on YouTube  
-- 🏫 Runs Bhavna Institute – empowering students with real tech skills  
+### `~/build --ideas --ai --systems`
 
----
+**Founder @ Vasudev AI · Builder · AI & Software Developer**
 
-### 💼 Projects
+> Turning ideas into useful products, AI systems, tools and communities.
 
-- 📚 **Sahayak AI** – An AI-powered tool to **empower Indian teachers** with content creation, auto-doubt solving, lesson planning & more  
-- 🧠 **Vasudev AI** – Offline, multilingual, Hinglish-speaking personal assistant built on local LLMs  
-- 🖥️ **Vasudev OS** – Custom Linux-based operating system for offline productivity, AI & system tools  
-- 🤖 **Telegram Bots** – Custom automation bots for GeM alerts, student queries, affiliate posting, and more  
-- 📦 **System Tools** – CLI + GUI tools for daily workflows, including file managers, background remover, text editors, and more
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sg-surya&label=PROFILE%20VIEWS&style=flat-square&color=111111)](https://github.com/sg-surya)
+[![GitHub followers](https://img.shields.io/github/followers/sg-surya?label=FOLLOWERS&style=flat-square&color=111111)](https://github.com/sg-surya?tab=followers)
+[![YouTube](https://img.shields.io/badge/CODECRAFT%20WITH%20SURYA-111111?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@CodeCraftwithSurya)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white)
+## `$ whoami`
+
+```text
+surya@vasudev:~$ whoami
+
+Surya Pratap Singh
+
+role      : Founder / Builder / AI & Software Developer
+education : Applied AI & Data Science — IIT Jodhpur
+company   : Vasudev AI
+creator   : CodeCraft with Surya
+
+surya@vasudev:~$ uptime
+
+always building...
+```
+
+I enjoy taking products from an idea to something people can actually use — from UI/UX and backend systems to AI integration, automation, deployment and iteration.
 
 ---
 
-### 📊 GitHub Stats
+## `$ ls ~/projects`
 
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sg-surya&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg-surya&layout=compact&theme=radical)
+### ⚡ Vasudev AI
+Technology venture building practical AI products, developer tools and digital systems.
 
----
+`AI systems · automation · EdTech · developer tools · product engineering`
 
+### 🏟️ Vasudev AI Arena
+A gamified builder community built around quests, bounties, XP, badges, seasonal leaderboards, challenges and rewards.
 
-### 📊 GitHub Trophies
+`QUESTS · BOUNTIES · XP · LEADERBOARDS · REWARDS · COMMUNITY`
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=sg-surya&theme=dracula)
+### 🧠 Vasudev AI Assistant
+A local/offline AI assistant direction focused on voice interaction, multilingual workflows, local LLMs and system-level productivity.
 
----
+`LOCAL LLMs · VOICE · AUTOMATION · WEB TOOLS`
 
+### 🎓 Learnivo AI
+EdTech product direction for teachers and institutions.
 
-### 📊 Visitor Counter
+`LESSON PLANNING · QUIZZES · OCR · RUBRICS · LIBRARY · INSTITUTION OS`
 
-![Visitors](https://komarev.com/ghpvc/?username=sg-surya&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-### 📫 Connect With Me
-
-[![YouTube](https://img.shields.io/badge/YouTube-CodeCraft--with--Surya-red?logo=youtube)](https://youtube.com/@CodeCraftwithSurya)  
-[![Gmail](https://img.shields.io/badge/Gmail-contact.sgsurya@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vasudevaiagency@gmail.com)  
-[![Discord](https://img.shields.io/badge/Join%20my%20Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/e5uPQDXSSk)
+### 🖥️ Systems & Automation
+CLI/GUI utilities, bots, Linux experiments, web apps and automation workflows.
 
 ---
 
-> ⚡ *"Turning bold ideas into powerful tools. Offline. Secure. Smart."*
+## `$ cat skills.json`
+
+```json
+{
+  "languages": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "Kotlin",
+    "HTML",
+    "CSS"
+  ],
+  "frontend": [
+    "React",
+    "Next.js",
+    "Vite",
+    "Tailwind CSS"
+  ],
+  "backend": [
+    "Flask",
+    "Node.js",
+    "Laravel",
+    "REST APIs",
+    "SSE"
+  ],
+  "ai": [
+    "LLMs",
+    "Local AI",
+    "Prompt Engineering",
+    "AI Automation",
+    "Data Science"
+  ],
+  "data": [
+    "Python",
+    "Pandas",
+    "Excel",
+    "Business Analytics"
+  ],
+  "mobile": [
+    "Android",
+    "Kotlin",
+    "Flutter"
+  ],
+  "systems": [
+    "Linux",
+    "Arch Linux",
+    "Windows",
+    "Shell",
+    "System Customization"
+  ],
+  "tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Android Studio",
+    "LM Studio"
+  ]
+}
+```
+
+---
+
+## `$ git log --featured`
+
+```text
+[01] Building Vasudev AI
+[02] Shipping Vasudev AI Arena
+[03] Experimenting with local & offline AI
+[04] Building EdTech products
+[05] Creating automation tools & bots
+[06] Exploring Linux & system-level tooling
+[07] Sharing builds through CodeCraft with Surya
+```
+
+---
+
+## `$ neofetch --github`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sg-surya&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=444444&icon_color=111111&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg-surya&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=444444" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sg-surya&hide_border=true&theme=transparent&ring=111111&fire=111111&currStreakLabel=111111" />
+
+</div>
+
+---
+
+## `$ ls -la ~/links`
+
+```text
+vasudev-ai   -> https://vasudev.online
+arena        -> https://arena.vasudevai.in
+search       -> https://search.vasudev.online
+youtube      -> https://youtube.com/@CodeCraftwithSurya
+```
+
+<div align="center">
+
+[🌐 Vasudev AI](https://vasudev.online) ·
+[🏟️ Arena](https://arena.vasudevai.in) ·
+[▶️ YouTube](https://youtube.com/@CodeCraftwithSurya) ·
+[💻 GitHub](https://github.com/sg-surya)
+
+</div>
+
+---
+
+## `$ echo $STACK`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-111111?style=flat-square&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## `$ sudo apt install ambition`
+
+```text
+[ OK ] Curiosity
+[ OK ] Building
+[ OK ] Experimenting
+[ OK ] Breaking things
+[ OK ] Fixing them
+[ OK ] Shipping
+[ OK ] Learning
+
+[~] Repeat until the idea becomes real.
+```
+
+<div align="center">
+
+### `BUILD · SHIP · LEARN · REPEAT`
+
+<sub>Made with curiosity, code, and too many terminal tabs.</sub>
+
+</div>
